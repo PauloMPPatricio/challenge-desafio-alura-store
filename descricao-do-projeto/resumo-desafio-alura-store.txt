@@ -1,7 +1,0 @@
-Claro! Nesta aula, você foi apresentado ao desafio Alura Store, que tem como objetivo ajudar o Senhor João a decidir qual de suas quatro lojas deve vender para investir em um novo negócio. Como analista de dados, você irá analisar métricas como faturamento total, categorias mais populares, média de avaliação dos clientes, produtos mais e menos vendidos e custo médio do frete.
-
-Para realizar essa análise, você utilizará dados armazenados em arquivos CSV, que podem ser acessados através de um repositório no GitHub. O desafio será realizado no Google Colab, onde você importará os dados e executará o código base fornecido. Após a análise, você deverá gerar três gráficos utilizando a biblioteca Matplotlib e elaborar um relatório em Markdown, indicando qual loja o Senhor João deve vender.
-
-Essa atividade é uma oportunidade para aplicar os conhecimentos adquiridos nos cursos de Python para Data Science. Vamos colocar a mão na massa! Se precisar de ajuda com alguma parte específica, estou aqui para ajudar!
-
-Copiar texto da Luri para área de transferêcia
